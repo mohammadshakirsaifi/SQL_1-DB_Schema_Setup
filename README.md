@@ -2,12 +2,12 @@
 ###### A Step-by-Step Guide to Creating and Populating Tables with SQL
 ## 📂 Project Structure
 
-
-Assignment_Company_Database/
-├── Assignment_MohammadShakir.sql
+```md
+Company_Database/
+├── company.sql
 ├── README.md
 └── Screenshots/
-
+```
 ---
 
 ## 🗄️ Database Overview
@@ -65,7 +65,7 @@ This project demonstrates:
 ## ✅ How to Run the Project
 
 1. Open MySQL / SQL Workbench
-2. Run `Assignment_MohammadShakir.sql`
+2. Run `company.sql`
 3. Verify tables and data using SELECT queries
 
 ---
